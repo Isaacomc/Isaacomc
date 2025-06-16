@@ -1,6 +1,8 @@
-## Olá, tudo tranquilo? Eu me chamo Isaque 🤙
+# Olá, tudo tranquilo? Eu me chamo Isaque 🤙
+# Sobre mim:
+Atualmente estou procurando me introduzir na área de programação back-end, na qual me motivou a ter um grande interesse em compreender o funcionamento das tecnologias escondidas por interfaces amigáveis ao usuário.
 ### 📖 Estudando [ Java - MySQL(relacional) ]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacomc&layout=donut-vertical&theme=dark&custom_title=Tecnologias)](https://github.com/Isaacomc/github-readme-stats)
+
 
 
 
