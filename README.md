@@ -1,6 +1,8 @@
 ## Olá, tudo tranquilo? Eu me chamo Isaque 🤙
-📖 Estudando [ Java -- BD Relacional (MySQL) ]
+### 📖 Estudando [ Java - MySQL(relacional) ]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacomc&size_weight=0.5&count_weight=0.5&theme=dark&custom_title=Tecnologias&langs_count=9)
+          
+  
 
-![Isaacomc GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaacomc&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaacomc&layout=donut)](https://github.com/Isaacomc/github-readme-stats)
+
 
